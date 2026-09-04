@@ -118,10 +118,101 @@ Full-Stack Developer • Product Thinker • AI & Automation Enthusiast
 </table>
 
 ---
-
 ## 🤖 How I Use AI
 
 I use AI to **solve problems, optimize workflows, and build faster** — not just to generate code.
 
-```text
-Problem → Think → Design → AI-Assisted Build → Test → Optimize
+<p align="center">
+  <b>Problem → Think → Design → AI-Assisted Build → Test → Optimize</b>
+</p>
+
+### 🛠️ AI & Productivity Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Automation-FF6F00?style=for-the-badge"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github" />
+</p>
+
+---
+
+## 🎯 What I Do
+
+- 💻 **Full-Stack & Application Development**
+- 🤖 **AI, Automation & Workflow Optimization**
+- 📦 **Product & Project Management**
+- 🎨 **UI/UX & User-Centered Design**
+- 🧠 **System Thinking & Creative Problem Solving**
+- ⚡ **Rapid Prototyping & AI-Assisted Development**
+- 🔐 **Cybersecurity Fundamentals**
+
+---
+
+## 🚀 My Approach
+
+<p align="center">
+  <b>Understand → Design → Build → Test → Optimize</b>
+</p>
+
+I combine **development + product thinking + AI + design** to turn ideas into useful digital products.
+
+---
+
+## 🌱 Currently Improving
+
+**Full-Stack Development • AI & Automation • Product Management • System Design • UI/UX • Cybersecurity**
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <a href="https://github.com/vedd31">
+    <img src="https://img.shields.io/badge/GitHub-vedd31-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Code • Build • Learn • Improve</b>
+</p>
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/vedd31">
+    <img src="https://img.shields.io/badge/GitHub-vedd31-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/vedd-wagh-9598052ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vedd%20Wagh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:vedwagh31082006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Building • Learning • Automating • Optimizing</b>
+</p>
+
+<p align="center">
+  <i>Turning ideas into useful digital products.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
